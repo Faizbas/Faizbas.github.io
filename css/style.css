@@ -265,6 +265,9 @@ textarea.contact-form-text {
   margin-right: auto;
   text-align: center;
 }
+.container1 {
+  text-align: center;
+}
 @media (max-width: 768px) {
   .mobile-menu {
     display: block;
