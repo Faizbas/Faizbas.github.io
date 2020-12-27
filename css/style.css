@@ -265,7 +265,13 @@ textarea.contact-form-text {
   margin-right: auto;
   text-align: center;
 }
-
+.table {
+  width: 90%;
+  border-collapse: collapse;
+  text-align: center;
+  table-layout: center;
+  margin: 0 auto;
+}
 @media (max-width: 768px) {
   .mobile-menu {
     display: block;
